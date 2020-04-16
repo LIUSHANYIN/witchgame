@@ -1,0 +1,31 @@
+body{
+  margin: 0;
+  padding: 0;
+  top: 50%;
+  left: 50%;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  background: #292929;
+}
+
+h1{
+  color: #BF4D28;
+  font-size: 3em;
+  line-height:1em;
+  margin-bottom: 15px;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 0 rgba(0,0,0,0.4);
+}
+
+
+div{
+  color: #BF4D28;
+  font-family: sans-serif;
+  line-height:10px;
+  margin:2%;
+}
+
+#canvas{
+    margin-left:0;
+    background: linear-gradient(#6DBCDB, #D7DADB); 
+}
